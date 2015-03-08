@@ -1,0 +1,10 @@
+{
+	"name": "imapd",
+	"description": "A totally shit IMAP server in D",
+	"copyright": "Copyright © 2015, packy",
+	"authors": ["packy"],
+  "versions": ["VibeDefaultMain"],
+	"dependencies": {
+    "vibe-d": "~>0.7.22"
+	}
+}
